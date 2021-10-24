@@ -1,2 +1,2 @@
 # Portofolio
-This repo contains an updated portfolio.
+This repo contains my updated portfolio.
